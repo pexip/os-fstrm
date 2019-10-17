@@ -1,3 +1,14 @@
+fstrm (0.6.0-1) unstable; urgency=medium
+
+  * New upstream version 0.6.0
+  * debian/control: Add Vcs-Browser, Vcs-Git fields for salsa.debian.org
+  * debian/control: Bump Standards-Version to 4.4.1 (no changes)
+  * debian/copyright: Use https form of the copyright-format URL
+  * debian/copyright: Update due to upstream re-licensing
+  * debian/control: Set "Multi-Arch: same" on libfstrm-dev
+
+ -- Robert Edmonds <edmonds@debian.org>  Thu, 17 Oct 2019 17:19:17 -0400
+
 fstrm (0.4.0-1) unstable; urgency=medium
 
   * New upstream version 0.4.0
