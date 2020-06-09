@@ -1,13 +1,15 @@
 Source: fstrm
 Section: libs
 Priority: optional
-Maintainer: Robert Edmonds <edmonds@debian.org>
+Maintainer: Pexip AS <packaging@pexip.com>
+XSBC-Pexip-Original-Maintainer: Robert Edmonds <edmonds@debian.org>
 Build-Depends:
  , debhelper (>= 10~)
  , pkg-config
  , libevent-dev
 Standards-Version: 4.3.0
 Homepage: https://github.com/farsightsec/fstrm
+XS-Pexip-Upstream: http://ftp.debian.org/debian/ buster
 
 Package: libfstrm0
 Architecture: any
