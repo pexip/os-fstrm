@@ -1,3 +1,9 @@
+fstrm (0.4.0-1pexip2) pexip; urgency=medium
+
+  * Rebuild in buster environment
+
+ -- Steve McIntyre <steve.mcintyre@pexip.com>  Wed, 15 Jul 2020 18:30:19 +0000
+
 fstrm (0.4.0-1pexip1) pexip; urgency=medium
 
   * Prepare Pexip packaging
