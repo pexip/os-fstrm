@@ -3,10 +3,10 @@ Section: libs
 Priority: optional
 Maintainer: Robert Edmonds <edmonds@debian.org>
 Build-Depends:
- , debhelper (>= 10~)
+ , debhelper-compat (= 13)
  , pkg-config
  , libevent-dev
-Standards-Version: 4.4.1
+Standards-Version: 4.6.0
 Homepage: https://github.com/farsightsec/fstrm
 Vcs-Browser: https://salsa.debian.org/edmonds/fstrm
 Vcs-Git: https://salsa.debian.org/edmonds/fstrm.git
