@@ -9,7 +9,7 @@ Build-Depends:
  libevent-dev
 Standards-Version: 4.3.0
 Homepage: https://github.com/farsightsec/fstrm
-XS-Pexip-Upstream: http://ftp.debian.org/debian/ buster
+XS-Pexip-Upstream: http://deb.debian.org/debian/ bullseye
 
 Package: libfstrm0
 Architecture: any
