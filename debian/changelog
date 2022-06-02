@@ -1,3 +1,9 @@
+fstrm (0.6.0-1pexip1) pexip; urgency=medium
+
+  * Initial bullseye build
+
+ -- Mark Hymers <mark.hymers@pexip.com>  Thu, 02 Jun 2022 14:42:12 +0100
+
 fstrm (0.6.0-1) unstable; urgency=medium
 
   * New upstream version 0.6.0
