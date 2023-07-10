@@ -1,3 +1,9 @@
+fstrm (0.6.0-1pexip4) pexip; urgency=medium
+
+  * No-change rebuild to move source package to main
+
+ -- Steve McIntyre <steve.mcintyre@pexip.com>  Mon, 10 Jul 2023 15:51:28 +0100
+
 fstrm (0.6.0-1pexip3) pexip-bullseye; urgency=medium
 
   * Bullseye rebuild for ARM64 inclusion
