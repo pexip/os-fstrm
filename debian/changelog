@@ -1,3 +1,9 @@
+fstrm (0.6.1-1pexip1) pexip-bookworm; urgency=medium
+
+  * Initial bookworm build
+
+ -- Mark Hymers <mark.hymers@pexip.com>  Thu, 16 Nov 2023 09:59:26 +0000
+
 fstrm (0.6.1-1) unstable; urgency=medium
 
   * New upstream version 0.6.1 (Closes: #1003960)
